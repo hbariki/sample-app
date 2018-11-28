@@ -7,5 +7,7 @@ Steps to run the application
 - Install node modules using ```npm install```
 - npm start
 
-you will application on 'https//localhost:8081'
+  You will application running on port 8081
+  
+  
 
